@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 import sys
 from deep_translator import GoogleTranslator
-sys.path.append("C:/Users/Alexis/Desktop/scraping_assignment/scrapers")
+sys.path.append("C:/Users/Alexis/Desktop/scraper_assignment/scrapers")
 from selenium import webdriver
 from abstract.abstract_scraper import AbstractScraper
 from selenium.webdriver.firefox.service import Service as FirefoxService
