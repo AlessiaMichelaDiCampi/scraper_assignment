@@ -1,0 +1,128 @@
+2024-05-31 16:45:56,792 - INFO - Reading the file with countries
+2024-05-31 16:45:56,792 - INFO - Finished to load
+2024-05-31 16:45:56,999 - INFO - {'https://www.notino.be': 'dentifrices'}
+2024-05-31 16:45:56,999 - INFO - Scraping started for country: https://www.notino.be
+2024-05-31 16:46:06,093 - INFO - Accepting cookies
+2024-05-31 16:46:16,414 - INFO - Accept button not found within the timeout period. Continuing...
+2024-05-31 16:46:16,720 - INFO - Clicked next page
+2024-05-31 16:46:19,008 - INFO - Clicked next page
+2024-05-31 16:46:21,317 - INFO - Clicked next page
+2024-05-31 16:46:23,620 - INFO - Clicked next page
+2024-05-31 16:46:25,893 - INFO - Clicked next page
+2024-05-31 16:46:28,170 - INFO - Clicked next page
+2024-05-31 16:46:30,493 - INFO - Clicked next page
+2024-05-31 16:46:32,801 - INFO - Clicked next page
+2024-05-31 16:46:35,082 - INFO - Clicked next page
+2024-05-31 16:46:37,385 - INFO - Clicked next page
+2024-05-31 16:46:39,680 - INFO - Clicked next page
+2024-05-31 16:46:41,983 - INFO - Clicked next page
+2024-05-31 16:46:44,310 - INFO - Clicked next page
+2024-05-31 16:46:46,605 - INFO - Clicked next page
+2024-05-31 16:46:48,910 - INFO - Clicked next page
+2024-05-31 16:46:51,209 - INFO - Clicked next page
+2024-05-31 16:46:53,538 - INFO - Clicked next page
+2024-05-31 16:46:55,979 - INFO - Clicked next page
+2024-05-31 16:46:58,326 - INFO - Clicked next page
+2024-05-31 16:47:00,644 - INFO - Clicked next page
+2024-05-31 16:47:02,915 - INFO - Clicked next page
+2024-05-31 16:47:05,228 - INFO - Clicked next page
+2024-05-31 16:47:07,509 - INFO - Clicked next page
+2024-05-31 16:47:20,035 - INFO - End of pages
+2024-05-31 16:47:27,162 - INFO - Scraping completed for country: https://www.notino.be
+2024-05-31 16:47:27,222 - INFO - Saved on CSV
+2024-05-31 21:34:31,607 - INFO - Reading the file with countries
+2024-05-31 21:34:31,607 - INFO - Finished to load
+2024-05-31 21:34:31,889 - INFO - {'https://www.notino.be': 'dentifrices'}
+2024-05-31 21:34:31,890 - INFO - Scraping started for country: https://www.notino.be
+2024-05-31 21:34:41,754 - INFO - Accepting cookies
+2024-05-31 21:34:52,069 - INFO - Accept button not found within the timeout period. Continuing...
+2024-05-31 21:34:52,380 - INFO - Clicked next page
+2024-05-31 21:34:54,665 - INFO - Clicked next page
+2024-05-31 21:34:56,948 - INFO - Clicked next page
+2024-05-31 21:34:59,243 - INFO - Clicked next page
+2024-05-31 21:35:01,541 - INFO - Clicked next page
+2024-05-31 21:35:03,845 - INFO - Clicked next page
+2024-05-31 21:35:06,113 - INFO - Clicked next page
+2024-05-31 21:35:08,385 - INFO - Clicked next page
+2024-05-31 21:35:10,661 - INFO - Clicked next page
+2024-05-31 21:35:12,934 - INFO - Clicked next page
+2024-05-31 21:35:15,244 - INFO - Clicked next page
+2024-05-31 21:35:17,538 - INFO - Clicked next page
+2024-05-31 21:35:19,812 - INFO - Clicked next page
+2024-05-31 21:35:22,114 - INFO - Clicked next page
+2024-05-31 21:35:24,387 - INFO - Clicked next page
+2024-05-31 21:35:26,660 - INFO - Clicked next page
+2024-05-31 21:35:28,952 - INFO - Clicked next page
+2024-05-31 21:35:31,235 - INFO - Clicked next page
+2024-05-31 21:35:33,534 - INFO - Clicked next page
+2024-05-31 21:35:35,818 - INFO - Clicked next page
+2024-05-31 21:35:38,101 - INFO - Clicked next page
+2024-05-31 21:35:40,390 - INFO - Clicked next page
+2024-05-31 21:35:42,678 - INFO - Clicked next page
+2024-05-31 21:35:55,103 - INFO - End of pages
+2024-05-31 21:36:02,206 - INFO - Scraping completed for country: https://www.notino.be
+2024-05-31 21:36:02,256 - INFO - Saved on CSV
+2024-05-31 21:36:35,923 - INFO - Reading the file with countries
+2024-05-31 21:36:35,923 - INFO - Finished to load
+2024-05-31 21:36:36,118 - INFO - {'https://www.notino.be': 'dentifrices'}
+2024-05-31 21:36:36,119 - INFO - Scraping started for country: https://www.notino.be
+2024-05-31 21:36:44,668 - INFO - Accepting cookies
+2024-05-31 21:36:54,999 - INFO - Accept button not found within the timeout period. Continuing...
+2024-05-31 21:36:55,304 - INFO - Clicked next page
+2024-05-31 21:36:57,604 - INFO - Clicked next page
+2024-05-31 21:36:59,893 - INFO - Clicked next page
+2024-05-31 21:37:02,171 - INFO - Clicked next page
+2024-05-31 21:37:04,446 - INFO - Clicked next page
+2024-05-31 21:37:06,726 - INFO - Clicked next page
+2024-05-31 21:37:09,019 - INFO - Clicked next page
+2024-05-31 21:37:11,298 - INFO - Clicked next page
+2024-05-31 21:37:13,576 - INFO - Clicked next page
+2024-05-31 21:37:15,858 - INFO - Clicked next page
+2024-05-31 21:37:18,155 - INFO - Clicked next page
+2024-05-31 21:37:20,465 - INFO - Clicked next page
+2024-05-31 21:37:22,757 - INFO - Clicked next page
+2024-05-31 21:37:25,035 - INFO - Clicked next page
+2024-05-31 21:37:27,302 - INFO - Clicked next page
+2024-05-31 21:37:29,593 - INFO - Clicked next page
+2024-05-31 21:37:31,890 - INFO - Clicked next page
+2024-05-31 21:37:34,204 - INFO - Clicked next page
+2024-05-31 21:37:36,482 - INFO - Clicked next page
+2024-05-31 21:37:38,757 - INFO - Clicked next page
+2024-05-31 21:37:41,268 - INFO - Clicked next page
+2024-05-31 21:37:43,586 - INFO - Clicked next page
+2024-05-31 21:37:45,901 - INFO - Clicked next page
+2024-05-31 21:37:58,042 - INFO - End of pages
+2024-05-31 21:38:05,132 - INFO - Scraping completed for country: https://www.notino.be
+2024-05-31 21:38:05,141 - INFO - Saved on CSV
+2024-06-01 14:43:05,166 - INFO - Reading the file with countries
+2024-06-01 14:43:05,166 - INFO - Finished to load
+2024-06-01 14:43:05,428 - INFO - {'https://www.notino.be': 'dentifrices'}
+2024-06-01 14:43:05,428 - INFO - Scraping started for country: https://www.notino.be
+2024-06-01 14:43:15,632 - INFO - Accepting cookies
+2024-06-01 14:43:25,936 - INFO - Accept button not found within the timeout period. Continuing...
+2024-06-01 14:43:26,296 - INFO - Clicked next page
+2024-06-01 14:43:28,606 - INFO - Clicked next page
+2024-06-01 14:43:30,880 - INFO - Clicked next page
+2024-06-01 14:43:33,155 - INFO - Clicked next page
+2024-06-01 14:43:35,432 - INFO - Clicked next page
+2024-06-01 14:43:37,708 - INFO - Clicked next page
+2024-06-01 14:43:40,006 - INFO - Clicked next page
+2024-06-01 14:43:42,304 - INFO - Clicked next page
+2024-06-01 14:43:44,601 - INFO - Clicked next page
+2024-06-01 14:43:46,888 - INFO - Clicked next page
+2024-06-01 14:43:49,257 - INFO - Clicked next page
+2024-06-01 14:43:51,604 - INFO - Clicked next page
+2024-06-01 14:43:53,908 - INFO - Clicked next page
+2024-06-01 14:43:56,186 - INFO - Clicked next page
+2024-06-01 14:43:58,470 - INFO - Clicked next page
+2024-06-01 14:44:00,752 - INFO - Clicked next page
+2024-06-01 14:44:03,039 - INFO - Clicked next page
+2024-06-01 14:44:05,361 - INFO - Clicked next page
+2024-06-01 14:44:07,648 - INFO - Clicked next page
+2024-06-01 14:44:09,934 - INFO - Clicked next page
+2024-06-01 14:44:12,231 - INFO - Clicked next page
+2024-06-01 14:44:14,519 - INFO - Clicked next page
+2024-06-01 14:44:16,791 - INFO - Clicked next page
+2024-06-01 14:44:28,830 - INFO - End of pages
+2024-06-01 14:44:35,880 - INFO - Scraping completed for country: https://www.notino.be
+2024-06-01 14:44:35,891 - INFO - Saved on CSV
